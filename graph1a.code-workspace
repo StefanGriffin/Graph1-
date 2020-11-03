@@ -1,8 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "/Users/stefg/.local/share/virtualenvs/graph-K_uiAjCv/bin/python",
+
+            "python.pythonPath": "/Users/stefg/.local/share/virtualenvs/graph-K_uiAjCv/bin/python",
+        }
+    ],
+    "settings": {}
 }
